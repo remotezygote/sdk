@@ -1,5 +1,11 @@
 # @whereby.com/browser-sdk
 
+## 3.0.4
+
+### Patch Changes
+
+- 470c96a: Including externalId in participant_join and participant_leave events
+
 ## 3.0.3
 
 ### Patch Changes
